@@ -404,7 +404,7 @@ h1 {
 
 .project-image {
     width: 100%;
-    height: 200px;
+    height: 400px;
     background: rgba(255, 255, 255, 0.05);
     overflow: hidden;
 }
@@ -668,4 +668,10 @@ textarea.form-input {
     .contact-title {
         font-size: 2rem;
     }
+}
+
+.footer {
+    background: rgb(8, 9, 12);
+    color: #ffff;
+    padding: 5px;
 }
