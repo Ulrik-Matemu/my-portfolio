@@ -672,6 +672,9 @@ textarea.form-input {
 
 .footer {
     background: rgb(8, 9, 12);
-    color: #ffff;
     padding: 5px;
+}
+
+.footer p {
+    color: #ffff;
 }
